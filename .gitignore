@@ -1,5 +1,6 @@
 #Ignores Sublime Text's Project
 *.sublime-project
+*.sublime-workspace
 
 #Ignores the binaries
 #marvellous/export/
