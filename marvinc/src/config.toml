@@ -244,4 +244,4 @@ The **Robotics Branch**, together with the **Software and Microcoding Branch** i
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; MarvellousSoft'
+    copyright = '&copy; <a href="marvelloussoft.github.io">MarvellousSoft</a>'
