@@ -1,0 +1,68 @@
+* {
+}
+
+body {
+	background-color: #608FBD;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+	width: 90%;
+	margin: 5pt auto;
+}
+
+.header img {
+	display: block;
+	margin: 0 auto;
+}
+
+#dialog {
+	opacity: 0;
+	position: absolute;
+	margin: 0;
+	margin-top: -20pt;
+	margin-left: 60pt;
+}
+
+#dialog:hover {
+	opacity: 1;
+}
+
+#menu ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+#menu li {
+	display: inline;
+	padding: 30pt;
+}
+
+#menu a {
+	color: black;
+	text-decoration: none;
+	font-size: 25pt;
+}
+
+#cur a {
+	font-size: 40pt;
+}
+
+#menu a:hover {
+	font-size: 40pt;
+}
+
+.main {
+	width: 70%;
+	margin: 30pt auto;
+}
+
+.team {
+	padding: 0 20pt;
+}
+
+.team :hover {
+	opacity: 0.7;
+}
