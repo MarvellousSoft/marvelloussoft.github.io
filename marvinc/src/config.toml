@@ -105,7 +105,7 @@ theme = "hugo-elate-theme"
   [params.testimonials]
     enable = true
     title = "Testimonials"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Marvellous is home to many amazing minds from all around the world. Read what some of our most successful researchers have to say about working at Marvellous Inc.!"
     footertext = 'The views expressed by the employees of Marvellous Inc. do not reflect the views of the company. The above testimonials may have been altered to protect company IP and/or classified documents, and may not be the exact quotes by their authors.'
 
     [[params.testimonials.item]]
@@ -113,8 +113,8 @@ theme = "hugo-elate-theme"
       person = 'Paul Verkeufen <span class="subtext">Head Engineer at Material Engineering Dept.</span>'
 
     [[params.testimonials.item]]
-      quote = "&ldquo;&rdquo;"
-      person = 'Olivia Kavanagh <span class="subtext">Head Engineer at Software Engineering Dept.</span>'
+      quote = "&ldquo;Last weekend we had a hackaton at the company. 48 hours straight coding some new system, it was pretty great. Specially since we [...] were very productive.&rdquo;"
+      person = 'Olivia Kavanagh <span class="subtext">Head Engineer at Software Development Dept.</span>'
 
     [[params.testimonials.item]]
       quote = "&ldquo;&rdquo;"
@@ -184,7 +184,19 @@ theme = "hugo-elate-theme"
   [params.about]
     enable = true
     title = "Students"
-    description = "Marvellous Inc. is always looking for creative and innovative minds, whatever their age may be. We grant full and partial scholarships to prominent young adults in STEM. We also have open positions for undergraduate and graduate internships."
+    description = '''
+Marvellous Inc. is always looking for creative and innovative minds, whatever their age may be. We grant full and partial scholarships to prominent young adults in STEM in the US, Europe and developing countries.
+
+<img height="150" src="images/students1.png">
+<img height="150" src="images/students2.png">
+<img height="150" src="images/students3.png">
+
+If you're in College and interested in working with us, we also have open positions for undergraduate and graduate internships.
+
+<img height="150" src="images/students4.png">
+<img height="150" src="images/students5.png">
+<img height="150" src="images/students6.png">
+'''
 
   # Counters section
   [params.counters]
@@ -244,4 +256,4 @@ The **Robotics Branch**, together with the **Software and Microcoding Branch** i
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; <a href="marvelloussoft.github.io">MarvellousSoft</a>'
+    copyright = '&copy; <a href="https://marvelloussoft.github.io">MarvellousSoft</a>'
