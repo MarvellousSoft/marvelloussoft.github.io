@@ -70,7 +70,7 @@ theme = "hugo-elate-theme"
     enable = true
     title = "Watch the video"
     icon = "icon-play2"
-    url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    url = "https://www.youtube.com/watch?v=_wcn5NTOZ7c"
 
 
   # Services section
@@ -105,8 +105,8 @@ theme = "hugo-elate-theme"
   [params.testimonials]
     enable = true
     title = "Testimonials"
-    description = "Marvellous is home to many amazing minds from all around the world. Read what some of our most successful researchers have to say about working at Marvellous Inc.!"
-    footertext = 'The views expressed by the employees of Marvellous Inc. do not reflect the views of the company. The above testimonials may have been altered to protect company IP and/or classified documents, and may not be the exact quotes by their authors.'
+    description = "Marvellous is home to many amazing minds from all around the world. Read what some of our most successful researchers have to say* about working at Marvellous Inc.!"
+    footertext = '*The views expressed by the employees of Marvellous Inc. do not reflect the views of the company. The above testimonials may have been altered to protect company IP and/or classified documents, and may not be the exact quotes by their authors.'
 
     [[params.testimonials.item]]
       quote = "&ldquo;It's a great place. We get to do state of the art research that is going to make the world a better place. Plus, MarvInc is a very liberal company, and I get to [...] help people. I love [...] MarvInc.&rdquo;"
@@ -117,7 +117,7 @@ theme = "hugo-elate-theme"
       person = 'Olivia Kavanagh <span class="subtext">Head Engineer at Software Development Dept.</span>'
 
     [[params.testimonials.item]]
-      quote = "&ldquo;&rdquo;"
+      quote = "&ldquo;MarvInc is the best place for technical and logical self-improvement. And since the incident last month where all the interns were [...] fiery enthusiastic [...] or you could say they got a little HOT under the collar. [...] Anyways, we got open spots, and any chump that can type will do.&rdquo;"
       person = 'Janine Leubwitz <span class="subtext">Head Engineer at Robot Testing Dept.</span>'
 
   # Work section
