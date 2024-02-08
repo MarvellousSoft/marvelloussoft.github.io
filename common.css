@@ -31,6 +31,17 @@ body {
 	opacity: 1;
 }
 
+#discord {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	width: 300px;
+}
+
+#discord:hover {
+	opacity: 0.5;
+}
+
 #menu ul {
 	list-style: none;
 	margin: 0px;
